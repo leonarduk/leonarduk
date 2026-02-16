@@ -1,5 +1,4 @@
 # Steve Leonard
-
 Senior software engineer with 20+ years in financial services, 
 currently expanding into AI and LLM-powered systems.
 
@@ -13,6 +12,11 @@ currently expanding into AI and LLM-powered systems.
 Python CLI that converts OpenAPI specs into MCP server templates
 - [allotmint](https://github.com/leonarduk/allotmint) — 
 Serverless investment tracking and portfolio analytics
+
+## What I'm looking for
+Currently focused on AI-native backend systems, MCP tooling, and 
+LLM integration in financial services. Open to senior engineering 
+roles where AI is central to the work.
 
 ## Writing
 [Medium](https://medium.com/@steveleonard11) — 
