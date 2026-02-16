@@ -1,16 +1,22 @@
-## Hi there 👋
+# Steve Leonard
 
-<!--
-**leonarduk/leonarduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer with 20+ years in financial services, 
+currently expanding into AI and LLM-powered systems.
 
-Here are some ideas to get you started:
+## What I build
+- 🤖 LLM-powered systems and MCP tool servers
+- ☁️ Serverless AWS architectures  
+- 📊 Financial data platforms and risk systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- [mcp-toolsmith](https://github.com/leonarduk/mcp-toolsmith) — 
+Python CLI that converts OpenAPI specs into MCP server templates
+- [allotmint](https://github.com/leonarduk/allotmint) — 
+Serverless investment tracking and portfolio analytics
+
+## Writing
+[Medium](https://medium.com/@steveleonard11) — 
+technical articles on AWS, serverless, and AI systems
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/steveleonard/)
