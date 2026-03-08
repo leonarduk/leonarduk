@@ -13,7 +13,7 @@ currently expanding into AI and LLM-powered systems.
 Python CLI that converts OpenAPI specs into MCP server templates
 - [allotmint](https://github.com/leonarduk/allotmint) — 
 Serverless investment tracking and portfolio analytics
-- **sing-attune** —
+- [sing-attune](https://github.com/leonarduk/sing-attune)
 Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
 
 ## What I'm looking for
