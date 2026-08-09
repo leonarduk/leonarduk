@@ -1,1 +1,31 @@
-IyBTdGV2ZSBMZW9uYXJkClNlbmlvciBzb2Z0d2FyZSBlbmdpbmVlciB3aXRoIDIwKyB5ZWFycyBpbiBmaW5hbmNpYWwgc2VydmljZXMsIApjdXJyZW50bHkgZXhwYW5kaW5nIGludG8gQUkgYW5kIExMTS1wb3dlcmVkIHN5c3RlbXMuCgojIyBXaGF0IEkgYnVpbGQKLSDwn6SWIExMTS1wb3dlcmVkIHN5c3RlbXMgYW5kIE1DUCB0b29sIHNlcnZlcnMKLSDimIHvuI8gU2VydmVybGVzcyBBV1MgYXJjaGl0ZWN0dXJlcyAgCi0g8J+TiiBGaW5hbmNpYWwgZGF0YSBwbGF0Zm9ybXMgYW5kIHJpc2sgc3lzdGVtcwotIPCfjrUgUmVhbC10aW1lIGF1ZGlvL0RTUCBzeXN0ZW1zIHdpdGggQ1VEQS1hY2NlbGVyYXRlZCBNTCBpbmZlcmVuY2UKICAKIyMgQ3VycmVudGx5IHdvcmtpbmcgb24KLSBbbWNwLXRvb2xzbWl0aF0oaHR0cHM6Ly9naXRodWIuY29tL2xlb25hcmR1ay9tY3AtdG9vbHNtaXRoKSDigJQgClB5dGhvbiBDTEkgdGhhdCBjb252ZXJ0cyBPcGVuQVBJIHNwZWNzIGludG8gTUNQIHNlcnZlciB0ZW1wbGF0ZXMKLSBbY2ljYWlkXShodHRwczovL2dpdGh1Yi5jb20vbGVvbmFyZHVrL2NpY2FpZCkg4oCUIApPbmUgQ0xJIGZvciByZXBvIGF1dG9tYXRpb24gLSBzeW5jaW5nIGlzc3VlcywgQUkgY29kZSByZXZpZXdzLCBhbmQgbG9jYWwgQ0kgY2hlY2tzIGFjcm9zcyBHaXRIdWIgcHJvamVjdHMKLSBbYWxsb3RtaW50XShodHRwczovL2dpdGh1Yi5jb20vbGVvbmFyZHVrL2FsbG90bWludCkg4oCUIApTZXJ2ZXJsZXNzIGludmVzdG1lbnQgdHJhY2tpbmcgYW5kIHBvcnRmb2xpbyBhbmFseXRpY3MKLSBbc2luZy1hdHR1bmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9sZW9uYXJkdWsvc2luZy1hdHR1bmUpCldpbmRvd3MgZGVza3RvcCBhcHAgZm9yIGNob2lyIHNpbmdlcnM7IHJlYWwtdGltZSBwaXRjaCBkZXRlY3Rpb24gYWdhaW5zdCBhIE11c2ljWE1MIHNjb3JlIHVzaW5nIENVREEvdG9yY2hjcmVwZSwgd2l0aCBXZWJTb2NrZXQgc3RyZWFtaW5nIGFuZCBhIFdlYiBBdWRpbyBBUEkgZnJvbnRlbmQKCiMjIFdoYXQgSSdtIGxvb2tpbmcgZm9yCkN1cnJlbnRseSBmb2N1c2VkIG9uIEFJLW5hdGl2ZSBiYWNrZW5kIHN5c3RlbXMsIE1DUCB0b29saW5nLCBhbmQgCkxMTSBpbnRlZ3JhdGlvbiBpbiBmaW5hbmNpYWwgc2VydmljZXMuIE9wZW4gdG8gc2VuaW9yIGVuZ2luZWVyaW5nIApyb2xlcyB3aGVyZSBBSSBpcyBjZW50cmFsIHRvIHRoZSB3b3JrLgoKIyMgV3JpdGluZwpbTWVkaXVtXShodHRwczovL21lZGl1bS5jb20vQHN0ZXZlbGVvbmFyZDExKSAtIAp0ZWNobmljYWwgYXJ0aWNsZXMgb24gQVdTLCBzZXJ2ZXJsZXNzLCBhbmQgQUkgc3lzdGVtcwoKIyMgQ29ubmVjdApbTGlua2VkSW5dKGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9zdGV2ZWxlb25hcmQvKQo=
+# Steve Leonard
+Senior software engineer with 20+ years in financial services, 
+currently expanding into AI and LLM-powered systems.
+
+## What I build
+- 🤖 LLM-powered systems and MCP tool servers
+- ☁️ Serverless AWS architectures  
+- 📊 Financial data platforms and risk systems
+- 🎵 Real-time audio/DSP systems with CUDA-accelerated ML inference
+  
+## Currently working on
+- [mcp-toolsmith](https://github.com/leonarduk/mcp-toolsmith) — 
+Python CLI that converts OpenAPI specs into MCP server templates
+- [cicaid](https://github.com/leonarduk/cicaid) — 
+One CLI for repo automation - syncing issues, AI code reviews, and local CI checks across GitHub projects
+- [allotmint](https://github.com/leonarduk/allotmint) — 
+Serverless investment tracking and portfolio analytics
+- [sing-attune](https://github.com/leonarduk/sing-attune)
+Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
+
+## What I'm looking for
+Currently focused on AI-native backend systems, MCP tooling, and 
+LLM integration in financial services. Open to senior engineering 
+roles where AI is central to the work.
+
+## Writing
+[Medium](https://medium.com/@steveleonard11) - 
+technical articles on AWS, serverless, and AI systems
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/steveleonard/)
