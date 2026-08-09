@@ -9,8 +9,6 @@ currently expanding into AI and LLM-powered systems.
 - 🎵 Real-time audio/DSP systems with CUDA-accelerated ML inference
   
 ## Currently working on
-- [mcp-toolsmith](https://github.com/leonarduk/mcp-toolsmith) — 
-Python CLI that converts OpenAPI specs into MCP server templates
 - [cicaid](https://github.com/leonarduk/cicaid) — 
 One CLI for repo automation - syncing issues, AI code reviews, and local CI checks across GitHub projects
 - [allotmint](https://github.com/leonarduk/allotmint) — 
