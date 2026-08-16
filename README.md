@@ -10,7 +10,8 @@ currently expanding into AI and LLM-powered systems.
 
 ## Currently working on
 
-**Open-core dev tools** — public shell + private engine
+**Open-core dev tools**
+*Open core: a free, open-source shell anyone can use and fork, plus a private paid engine with the harder/differentiated logic on top.*
 - [cicaid](https://github.com/leonarduk/cicaid) *(public)* — GitHub plumbing CLI: sync issues, work-on-issue/PR, dependabot auto-merge, local CI checks, PR linking
 - `cicaid-core` *(private)* — adds the AI engine on top: LLM code review for local diffs and PRs (Claude/DeepSeek/GPT/Ollama), issue triage and AI-slop cleanup, AI-drafted commit/PR messages, aider integration
 - [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* — CLI shell: config, workspace management, run history, version checks
