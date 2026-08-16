@@ -7,14 +7,19 @@ currently expanding into AI and LLM-powered systems.
 - ☁️ Serverless AWS architectures  
 - 📊 Financial data platforms and risk systems
 - 🎵 Real-time audio/DSP systems with CUDA-accelerated ML inference
-  
+
 ## Currently working on
-- [cicaid](https://github.com/leonarduk/cicaid) — 
-One CLI for repo automation - syncing issues, AI code reviews, and local CI checks across GitHub projects
-- [allotmint](https://github.com/leonarduk/allotmint) — 
-Serverless investment tracking and portfolio analytics
-- [sing-attune](https://github.com/leonarduk/sing-attune)
-Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
+
+**Open-core dev tools** — public shell + private engine
+- [cicaid](https://github.com/leonarduk/cicaid) *(public)* + `cicaid-core` *(private)* — CLI for repo automation: sync issues, AI-reviewed diffs/PRs, local CI checks, AI-drafted commits
+- [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* + `issue-worm-core` *(private)* — local LLM issue-to-PR pipeline, using GitHub issues as the queue
+
+**AllotMint** — serverless investment tracking platform
+- [allotmint](https://github.com/leonarduk/allotmint) — React frontend, FastAPI backend, AWS deployment, portfolio analytics
+- [allotmint-mcp](https://github.com/leonarduk/allotmint-mcp) — Spring Boot MCP server exposing the AllotMint API
+
+**Other**
+- [sing-attune](https://github.com/leonarduk/sing-attune) — Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
 
 ## What I'm looking for
 Currently focused on AI-native backend systems, MCP tooling, and 
