@@ -11,8 +11,10 @@ currently expanding into AI and LLM-powered systems.
 ## Currently working on
 
 **Open-core dev tools** — public shell + private engine
-- [cicaid](https://github.com/leonarduk/cicaid) *(public)* + `cicaid-core` *(private)* — CLI for repo automation: sync issues, AI-reviewed diffs/PRs, local CI checks, AI-drafted commits
-- [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* + `issue-worm-core` *(private)* — local LLM issue-to-PR pipeline, using GitHub issues as the queue
+- [cicaid](https://github.com/leonarduk/cicaid) *(public)* — CLI for repo automation: sync issues, AI-reviewed diffs/PRs, local CI checks, AI-drafted commits
+- `cicaid-core` *(private)* — paid engine behind cicaid
+- [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* — local LLM issue-to-PR pipeline, using GitHub issues as the queue
+- `issue-worm-core` *(private)* — paid engine behind issue-worm
 
 **AllotMint** — serverless investment tracking platform
 - [allotmint](https://github.com/leonarduk/allotmint) *(public)* — React frontend, FastAPI backend, portfolio analytics
