@@ -15,7 +15,7 @@ currently expanding into AI and LLM-powered systems.
 - [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* + `issue-worm-core` *(private)* — local LLM issue-to-PR pipeline, using GitHub issues as the queue
 
 **AllotMint** — serverless investment tracking platform
-- [allotmint](https://github.com/leonarduk/allotmint) — React frontend, FastAPI backend, AWS deployment, portfolio analytics
+- [allotmint](https://github.com/leonarduk/allotmint) *(public)* + `allotmint-core` *(private)* — React frontend, FastAPI backend, portfolio analytics; screener, risk/VaR, compliance, allowances, and AWS deploy infra are a private paid engine
 - [allotmint-mcp](https://github.com/leonarduk/allotmint-mcp) — Spring Boot MCP server exposing the AllotMint API
 
 **Other**
