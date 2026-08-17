@@ -14,12 +14,12 @@ currently expanding into AI and LLM-powered systems.
 - [cicaid](https://github.com/leonarduk/cicaid) *(public)* — GitHub plumbing CLI: sync issues, work-on-issue/PR, dependabot auto-merge, local CI checks, PR linking
 - [cicaid-pro](https://github.com/leonarduk/cicaid-pro) *(private)* — adds the AI engine on top: LLM code review for local diffs and PRs (Claude/DeepSeek/GPT/Ollama), issue triage and AI-slop cleanup, AI-drafted commit/PR messages, aider integration
 - [issue-worm](https://github.com/leonarduk/issue-wormci) *(public)* — CLI shell: config, workspace management, run history, version checks
-- [issue-worm-core](https://github.com/leonarduk/issue-worm-core) *(private)* — the multi-agent engine: Coder→Verifier→Analyser orchestration loop, scheduler (poll/dispatch/label lifecycle), the coder/analyser/triage agents, and the [cicaid-pro](https://github.com/leonarduk/cicaid-pro) bridge
+- [issue-worm-pro](https://github.com/leonarduk/issue-worm-pro) *(private)* — the multi-agent engine: Coder→Verifier→Analyser orchestration loop, scheduler (poll/dispatch/label lifecycle), the coder/analyser/triage agents, and the [cicaid-pro](https://github.com/leonarduk/cicaid-pro) bridge
 - [doodlebug](https://github.com/leonarduk/doodlebug) *(private)* — CLI tool that audits a website against a QA plan specified in YAML — it will be split into open core later
 
 **AllotMint** — serverless investment tracking platform
 - [allotmint](https://github.com/leonarduk/allotmint) *(public)* — React frontend, FastAPI backend, portfolio analytics
-- [allotmint-core](https://github.com/leonarduk/allotmint-core) *(private)* — screener, risk/VaR, compliance, allowances, and AWS deploy infra
+- [allotmint-pro](https://github.com/leonarduk/allotmint-pro) *(private)* — screener, risk/VaR, compliance, allowances, and AWS deploy infra
 - [allotmint-mcp](https://github.com/leonarduk/allotmint-mcp) — Spring Boot MCP server exposing the AllotMint API
 
 **Other**
