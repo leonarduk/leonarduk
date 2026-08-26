@@ -25,6 +25,18 @@ currently expanding into AI and LLM-powered systems.
 **Other**
 - [sing-attune](https://github.com/leonarduk/sing-attune) — Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
 
+## Teaching
+
+**[Udemy](https://www.udemy.com/user/stephen-leonard/)** — full-length practice-test courses, every question
+answered with a worked, citation-backed explanation rather than just a letter.
+
+- **[Java SE 25 Certification Practice Tests (1Z0-831)](https://www.udemy.com/course/java-se-25-certification-practice-tests-1z0-831/)** *(published)* —
+  6 timed mock exams, 300 questions, covering all 10 official domains of Oracle's Java SE 25 Developer
+  Professional exam. Explanations cite the JLS, the relevant JEP, or the API docs, and the code-output
+  questions are verified against JDK 25.0.1.
+- *In progress:* Java SE 21 (1Z0-830), Spring Certified Professional (2V0-72.22), Spring Boot & Spring AI,
+  Python (PCEP/PCAP), AI-Assisted Developer Workflows, and financial risk & markets for software engineers.
+
 ## What I'm looking for
 Currently focused on AI-native backend systems, MCP tooling, and 
 LLM integration in financial services. Open to senior engineering 
