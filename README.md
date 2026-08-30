@@ -2,6 +2,11 @@
 Senior software engineer with 20+ years in financial services, 
 currently expanding into AI and LLM-powered systems.
 
+### 🤖 Chat with my AI twin
+[![Chat with the AI twin of Steve Leonard](https://raw.githubusercontent.com/leonarduk/ai-systems-lab/main/projects/08-linkedin-avatar/site/og-image.png)](https://leonarduk.github.io/ai-systems-lab/projects/08-linkedin-avatar/site/)
+
+Ask it about my career or any project in my GitHub — it reads both, and says when it doesn't know. **[Try it →](https://leonarduk.github.io/ai-systems-lab/projects/08-linkedin-avatar/site/)**
+
 ## What I build
 - 🤖 LLM-powered systems and MCP tool servers
 - ☁️ Serverless AWS architectures  
