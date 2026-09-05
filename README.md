@@ -40,7 +40,7 @@ repo where the content is authored and verified.
 - **[Java SE 25 Certification Practice Tests (1Z0-831)](https://www.udemy.com/course/java-se-25-certification-practice-tests-1z0-831/)** *(published)* —
   6 timed mock exams, 300 questions, covering all 10 official domains of Oracle's Java SE 25 Developer
   Professional exam. Explanations cite the JLS, the relevant JEP, or the API docs, and the code-output
-  questions are verified against JDK 25.0.1.
+  questions are verified against JDK 25.0.1.  Use BETA_TESTER for free acess.
   — [java25-udemy-practice-tests](https://github.com/leonarduk/java25-udemy-practice-tests) *(private)*, from [java_25_cert](https://github.com/leonarduk/java_25_cert) *(private)*
 - **[Python Institute PCEP-30 + PCAP-31 Certification Practice Tests](https://www.udemy.com/course/python-institute-pcep-pcap-practice-tests/)** *(published, beta)* —
   222 questions across 6 timed practice tests (PCEP-30, PCAP-31, and two Code-Output-Prediction
