@@ -21,6 +21,7 @@ Ask it about my career or any project in my GitHub — it reads both, and says w
 - [issue-worm](https://github.com/leonarduk/issue-worm) *(public)* — CLI shell: config, workspace management, run history, version checks
 - [issue-worm-pro](https://github.com/leonarduk/issue-worm-pro) *(private)* — the multi-agent engine: Coder→Verifier→Analyser orchestration loop, scheduler (poll/dispatch/label lifecycle), the coder/analyser/triage agents, and the [cicaid-pro](https://github.com/leonarduk/cicaid-pro) bridge
 - [doodlebug](https://github.com/leonarduk/doodlebug) *(private)* — CLI tool that audits a website against a QA plan specified in YAML — it will be split into open core later
+- [local-github-runner](https://github.com/leonarduk/local-github-runner) *(public)* — ephemeral, containerised, self-hosted GitHub Actions runners for private repos, to avoid burning through Actions minutes
 
 **AllotMint** — serverless investment tracking platform
 - [allotmint](https://github.com/leonarduk/allotmint) *(public)* — React frontend, FastAPI backend, portfolio analytics
