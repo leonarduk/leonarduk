@@ -29,7 +29,7 @@ Ask it about my career or any project in my GitHub — it reads both, and says w
 - [allotmint-mcp](https://github.com/leonarduk/allotmint-mcp) — Spring Boot MCP server exposing the AllotMint API
 
 **Other**
-- [sing-attune](https://github.com/leonarduk/sing-attune) — Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
+- [sing-attune](https://github.com/leonarduk/sing-attune) *(private)*  — Windows desktop app for choir singers; real-time pitch detection against a MusicXML score using CUDA/torchcrepe, with WebSocket streaming and a Web Audio API frontend
 
 ## Teaching
 
