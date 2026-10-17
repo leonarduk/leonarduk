@@ -42,14 +42,14 @@ and verified.
 **Certification prep**
 - **[Java SE 25 Certification Practice Tests (1Z0-831)](https://www.udemy.com/course/java-se-25-certification-practice-tests-1z0-831/)** —
   6 timed mock exams, 300 questions, all 10 official exam domains. Explanations cite the JLS, the relevant
-  JEP or the API docs; code-output questions are verified against JDK 25.0.1. Use code `LOYALTY_PAYS` (valid until mid-November 2026).
+  JEP or the API docs; code-output questions are verified against JDK 25.0.1. Use `LOYALTY_PAYS` for free access (valid until mid-November 2026).
   — [java25-udemy-practice-tests](https://github.com/leonarduk/java25-udemy-practice-tests) *(private)*, from [java_25_cert](https://github.com/leonarduk/java_25_cert) *(private)*
 - **[Java SE 21 Certification Practice Tests (1Z0-830)](https://www.udemy.com/course/java-se-21-certification-practice-tests-1z0-830/)** —
   6 timed mock exams, 300 questions, all 10 official exam domains, verified against JDK 21.
   — [java21-udemy-practice-tests](https://github.com/leonarduk/java21-udemy-practice-tests) *(private)*
 - **[Python Institute PCEP + PCAP Practice Tests](https://www.udemy.com/course/python-institute-pcep-pcap-practice-tests/)** —
   222 questions across 6 timed tests (PCEP-30, PCAP-31 and two code-output-prediction challenges), mapped
-  to both certifications' official domains. Use code `LOYALTY_PAYS` (valid until mid-November 2026).
+  to both certifications' official domains. Use `LOYALTY_PAYS` for free access (valid until mid-November 2026).
   — [python-udemy-practice-tests](https://github.com/leonarduk/python-udemy-practice-tests) *(private)*, from [python-cert-prep](https://github.com/leonarduk/python-cert-prep) *(private)*
 
 **Engineering in practice**
