@@ -68,10 +68,6 @@ and verified.
 
 **Shared tooling:** [udemy-practice-test-kit](https://github.com/leonarduk/udemy-practice-test-kit) *(public)*
 
-**In progress**
-- [spring-professional-udemy-practice-tests](https://github.com/leonarduk/spring-professional-udemy-practice-tests) *(private)* — Broadcom/VMware Spring Certified Professional (2V0-72.22); targeting 6×60, exam 1 at 12/60
-- [ai-cicd-udemy-practice-tests](https://github.com/leonarduk/ai-cicd-udemy-practice-tests) *(private)* — AI-Assisted Developer Workflows: CI/CD with AI, authored against [cicaid](https://github.com/leonarduk/cicaid) itself; 33 questions on Domain 1, parked. From [ai_cicd_cert](https://github.com/leonarduk/ai_cicd_cert) *(private)*
-
 ## What I'm looking for
 Currently focused on AI-native backend systems, MCP tooling, and 
 LLM integration in financial services. Open to senior engineering 
