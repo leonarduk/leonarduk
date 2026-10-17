@@ -68,10 +68,8 @@ and verified.
 
 **Shared tooling:** [udemy-practice-test-kit](https://github.com/leonarduk/udemy-practice-test-kit) *(public)*
 
-## What I'm looking for
-Currently focused on AI-native backend systems, MCP tooling, and 
-LLM integration in financial services. Open to senior engineering 
-roles where AI is central to the work.
+## Current focus
+AI-native backend systems, MCP tooling, and LLM integration in financial services.
 
 ## Writing
 [Medium](https://medium.com/@steveleonard11) - 
