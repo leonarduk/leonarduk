@@ -33,11 +33,19 @@ Ask it about my career or any project in my GitHub — it reads both, and says w
 
 ## Teaching
 
-**[Udemy](https://www.udemy.com/user/stephen-leonard/)** — six published practice-test courses, timed and
-scored, with every answer explained (and cited) rather than just a letter. Code questions are compiled and
-run against a real JDK or runtime before they ship. Each course has a private packaging repo (the question
-bank plus the CSV bulk-upload tooling), most of them fed by a separate repo where the content is authored
-and verified.
+**[Udemy](https://www.udemy.com/user/stephen-leonard/)** — nine published courses: six practice-test courses,
+timed and scored, with every answer explained (and cited) rather than just a letter, and three free video
+courses. Code is compiled and run against a real JDK or runtime before it ships. Each practice-test course has
+a private packaging repo (the question bank plus the CSV bulk-upload tooling), most of them fed by a separate
+repo where the content is authored and verified.
+
+**Free video courses**
+- **[Java 21 to 25: What's New for the 1Z0-831 Exam](https://www.udemy.com/course/java-21-to-25-whats-new-for-the-1z0-831-exam/)** —
+  every Java 22–25 feature the 1Z0-831 exam can test, with the traps, for developers who already know Java 21.
+- **[What's New in Python 3.14](https://www.udemy.com/course/whats-new-in-python-314/)** —
+  t-strings, deferred annotations, multiple interpreters, Zstandard and the rest of Python 3.14, with code that runs.
+- **[Python for Finance: The Essential Packages](https://www.udemy.com/course/python-for-finance-the-essential-packages/)** —
+  Decimal, NumPy, pandas, SciPy, statsmodels, Polars, Pydantic, FastAPI and pytest, applied to one portfolio.
 
 **Certification prep**
 - **[Java SE 25 Certification Practice Tests (1Z0-831)](https://www.udemy.com/course/java-se-25-certification-practice-tests-1z0-831/)** —
@@ -76,4 +84,4 @@ AI-native backend systems, MCP tooling, and LLM integration in financial service
 technical articles on AWS, serverless, and AI systems
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/steveleonard/)
+[LinkedIn](https://www.linkedin.com/in/steveleonard/) · [YouTube](https://www.youtube.com/@StevesCoding) · [Udemy](https://www.udemy.com/user/stephen-leonard/)
